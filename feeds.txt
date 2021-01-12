@@ -1,0 +1,566 @@
+date	source	title	summary
+Mon, 04 Jan 2021 17:12:18 +0000	New York Times	Even With $900 Billion Stimulus, Biden Faces Fragile Economy	Despite new pandemic aid, he confronts an economic crisis unlike any since he last entered office in 2009. And political headwinds have only stiffened.
+Mon, 04 Jan 2021 17:15:15 +0000	New York Times	Hundreds of Google Employees Unionize, Culminating Years of Activism	The creation of the union, a rarity in Silicon Valley, follows years of increasing outspokenness by Google workers. Executives have struggled to handle the change.
+Sat, 02 Jan 2021 13:22:19 +0000	New York Times	As Some Deficit Hawks Turn Dove, the New Politics of Debt Are on Display	Some Republicans who once scolded about fiscal austerity are now embracing government spending, underlining that the public supports more generous relief.
+Fri, 01 Jan 2021 10:00:14 +0000	New York Times	Why Markets Boomed in a Year of Human Misery	It wasn’t just the Fed or the stimulus. The rise in savings among white-collar workers created a tide lifting nearly all financial assets.
+Fri, 01 Jan 2021 02:31:42 +0000	New York Times	27 Places Raising the Minimum Wage to $15 an Hour	The new year brings another round of increases, nearly a decade after workers started campaigning for higher pay.
+Thu, 31 Dec 2020 17:30:56 +0000	New York Times	What Giant Skeletons and Puppy Shortages Told Us About the 2020 Economy	This year was awful, but it gave rise to some interesting social trends. Here’s what they tell us about the economic future.
+Sun, 03 Jan 2021 01:15:37 +0000	New York Times	Will an Overdraft Balance Impact Your Stimulus Check?	Banks have the power to decide whether to let overdrawn customers gain access to the stimulus money being deposited into their accounts, but they have taken different approaches.
+Thu, 31 Dec 2020 19:48:12 +0000	New York Times	Unemployment Claims Remain High as Millions Still Struggle to Find Work	Applications dipped slightly during Christmas week but at around 800,000 are well above historical levels.
+Fri, 01 Jan 2021 20:40:41 +0000	New York Times	U.S. Companies Face China Tariffs as Exclusions Expire	Many American companies saw their exemptions from President Trump’s China tariffs expire at midnight on Thursday.
+Thu, 31 Dec 2020 02:25:37 +0000	New York Times	Stimulus Money Should Have Gone to the Jobless, Economists Say	While lawmakers debate increasing the payments to $2,000, most Americans are expected to save, not spend, their $600 checks.
+Sun, 03 Jan 2021 05:40:13 +0000	New York Times	How To Spend in 2021	Last year we were just trying to roll with the punches. Hopefully now we can apply some of those survival skills to our finances.
+Sun, 03 Jan 2021 01:15:37 +0000	New York Times	Will an Overdraft Balance Impact Your Stimulus Check?	Banks have the power to decide whether to let overdrawn customers gain access to the stimulus money being deposited into their accounts, but they have taken different approaches.
+Mon, 04 Jan 2021 16:31:57 +0000	New York Times	FAFSA’s Expected Family Contribution Is Going Away. Good Riddance.	The dollar figure that the federal financial aid form spits out has long left families confused and despondent. And then there are those great expectations.
+Mon, 28 Dec 2020 23:55:17 +0000	New York Times	Pope Francis Strips Powerful Vatican Office of Its Financial Assets	A financial scandal involving the secretariat of state has given fresh impetus to Francis’ reform agenda.
+Mon, 28 Dec 2020 15:00:07 +0000	New York Times	With No Tickets to Sell, Arts Groups Appeal to Donors to Survive	Virtual cocktail parties have replaced black-tie galas as cultural institutions struggle to pay their operating costs.
+Mon, 28 Dec 2020 02:27:16 +0000	New York Times	7 Wonderful Non-Covid Things We Learned in 2020	Sleep more, procrastinate less and get better at money in 2021.
+Wed, 23 Dec 2020 23:12:07 +0000	New York Times	For Millions of Jobless, Christmas Is a Season to Endure, Not Celebrate	Even with the prospect of new federal aid, many Americans face a holiday of tough choices, trying to celebrate while dealing with pressing needs.
+Tue, 22 Dec 2020 10:00:18 +0000	New York Times	The Auto I.R.A. Is Gaining Traction as a Retirement Savings Option	The automatic I.R.A., administered by state governments, will be more widely available.
+Mon, 21 Dec 2020 17:20:25 +0000	New York Times	What Will Become of a Tycoon’s Art Gems?	It’s the art world’s new guessing game: Will Sheldon Solow’s paintings and sculptures, conservatively valued at $500 million, be heading to a private museum or to auction?
+Fri, 18 Dec 2020 14:00:08 +0000	New York Times	Stuck at Home, People Are Splurging on Wine and Spirits	Sales of wine, beer and spirits are up across the board, but “consumers are trading up and spending more,” one analyst said.
+Mon, 04 Jan 2021 18:40:45 GMT	CNBC	Haven, the Amazon-Berkshire-JPMorgan venture to disrupt health care, is disbanding after 3 years	The announcement in 2018 that the CEOs of Amazon, Berkshire Hathaway and JPMorgan Chase had teamed up sent shock waves throughout the world of health care.
+Mon, 04 Jan 2021 16:52:51 GMT	CNBC	Stocks making the biggest moves midday: Quantumscape, Tesla, Boeing, McDonald's & more	Tesla shares hit a record high. Quantumscape shares plunged.
+Mon, 04 Jan 2021 13:52:48 GMT	CNBC	Stocks making the biggest moves in the premarket: Magellan Health, FLIR Systems, Tesla & more	The stocks making the biggest moves in premarket trading include Magellan Health, FLIR Systems, Tesla, and more.
+Mon, 04 Jan 2021 17:03:53 GMT	CNBC	Bitcoin falls as record-breaking rally loses steam	The price of bitcoin rallied to a fresh all-time high over the weekend, briefly topping the $34,000 mark.
+Mon, 04 Jan 2021 12:24:01 GMT	CNBC	Chinese electric car company Nio doubles deliveries in 2020 as local competition ramps up for Tesla	Chinese electric car start-ups Nio, Li Auto and Xpeng each announced that deliveries surged in 2020 to close out the year with new monthly highs.
+Mon, 04 Jan 2021 18:37:38 GMT	CNBC	Wall Street begins 2021 with sell-off, Dow dropping more than 400 points	Stocks dropped on Monday, the first trading day of 2021, amid concerns about global coronavirus cases and the Georgia runoff elections.
+Thu, 31 Dec 2020 12:55:04 GMT	CNBC	Stocks making the biggest moves premarket: Exxon Mobil, Tribune Publishing, Apple, Tesla & more	These are the stocks posting the largest moves before the bell.
+Thu, 31 Dec 2020 14:39:09 GMT	CNBC	Trading legend Art Cashin shares his poem to say goodbye to 2020 and welcome the New Year	"Art Cashin couldn't lead the NYSE in the singing of ""Wait til the Sun Shines Nellie"" this year, but he penned this poem to share with us here."
+Thu, 31 Dec 2020 12:19:07 GMT	CNBC	China scores an EU investment deal before Biden takes office — and it wants to do more	China wrapped negotiations with the EU on an important investment deal and talked up hopes for more, less than a month before Joe Biden is set to take office.
+Wed, 30 Dec 2020 23:54:43 GMT	CNBC	Small caps' breakout is just starting, $17 billion money manager predicts	Bryn Mawr's Jeff Mills sees small caps outperforming large-cap stocks in 2021.
+Wed, 30 Dec 2020 19:46:26 GMT	CNBC	Morgan Stanley repays $1.7 million to college savers for high-cost investments	Morgan Stanley is paying back 2,300 customers invested in high-cost 529 plans, which are tax-advantaged accounts for education.
+Wed, 30 Dec 2020 17:39:20 GMT	CNBC	Dead people may still get $600 stimulus checks	People who died this year may receive the $600 stimulus checks the government began issuing Tuesday, similar to a round of one-time payments made in the spring.
+Wed, 30 Dec 2020 16:59:04 GMT	CNBC	Stocks making the biggest moves midday: AMC, Levi Strauss, Dynatrace, AstraZeneca & more	Check out the companies making headlines in midday trading.
+Wed, 30 Dec 2020 12:43:39 GMT	CNBC	Stocks making the biggest moves premarket: AstraZeneca, Intel, Caterpillar, Alibaba & more	These are the stocks posting the largest moves before the bell.
+Wed, 30 Dec 2020 12:12:27 GMT	CNBC	2021 may mark the first inflation comeback in a generation, market researcher Jim Bianco warns	Bianco Research's Jim Bianco says inflation is his big worry for next year.
+Wed, 30 Dec 2020 13:20:15 GMT	CNBC	Europe's digital banks got a 'wake-up call' in 2020. And consolidation could be coming	Investors want fintech challengers to show they can monetize their products and eventually make a profit. Experts say the space is ripe for some consolidation.
+Wed, 30 Dec 2020 05:22:36 GMT	CNBC	China's IPO market is set to keep booming in 2021, says investor	"Noah Holdings' William Ma expects the demand for IPOs in China to remain high next year, following a ""very exciting"" 2020."
+Wed, 30 Dec 2020 00:02:06 GMT	CNBC	Analyst argues that China's regulation of Ant Group is bad for financial technology — and China's economy	Alibaba recently saw more than $100 billion of its market cap shaved off in two sessions as the tech giant and its affiliate Ant Group face regulatory scrutiny.
+Wed, 30 Dec 2020 23:04:35 GMT	CNBC	Dow rises for the fourth time in five days, ekes out record closing high	Stocks rose slightly on Wednesday amid renewed vaccine optimism while traders looked for clues on additional fiscal stimulus.
+Tue, 29 Dec 2020 16:54:04 GMT	CNBC	Stocks making the biggest moves midday: Snap, Boeing, Alibaba, Lemonade & more	Check out the companies making headlines in midday trading.
+Tue, 29 Dec 2020 13:32:24 GMT	CNBC	Stocks making the biggest moves premarket: Boeing, SAP, Lemonade, Alibaba & more	These are the stocks posting the largest moves before the bell.
+Tue, 29 Dec 2020 11:47:18 GMT	CNBC	Market bull Julian Emanuel says stocks look like 2000 bubble top, but don't fear it	With the major indexes at record highs, BTIG's Julian Emanuel is drawing a parallel to another euphoric time: 2000.
+Mon, 28 Dec 2020 23:06:39 GMT	CNBC	China's economy is still months away from a full recovery, business survey finds	China has not fully recovered from the shock of the coronavirus pandemic, business leaders said in a survey by the China Beige Book released Tuesday.
+Tue, 29 Dec 2020 23:01:42 GMT	CNBC	Stocks close lower after hitting record highs, Dow and S&P 500 snap 3-day winning streak	Stocks slipped on Tuesday after reaching fresh all-time highs as traders weighed the possibility of even more fiscal stimulus being approved by Congress.
+Mon, 28 Dec 2020 21:50:22 GMT	CNBC	JPMorgan is acquiring a major credit card rewards business in a bet that travel will rebound next year	JPMorgan had partnered with cxLoyalty for its popular credit-card rewards program until 2018, when the bank switched to using Expedia.
+Mon, 28 Dec 2020 17:09:25 GMT	CNBC	Stocks making the biggest moves midday: Nikola, Weibo, DoorDash & more	These are the stocks posting the largest moves midday.
+Tue, 29 Dec 2020 15:07:20 GMT	CNBC	Extra unemployment benefits may take weeks to arrive. Fewer checks may be coming	President Trump signed a Covid relief bill, giving extra jobless benefits to millions of workers. Aid may not come for weeks and the total amount may be lower.
+Mon, 28 Dec 2020 15:34:59 GMT	CNBC	Investors believe the stock market could see headwinds under a Biden presidency	CNBC polled dozens of investors, traders and strategists about where they stood on stocks under a new administration.
+Tue, 29 Dec 2020 16:18:07 GMT	CNBC	Stocks making the biggest moves premarket: Alibaba, AT&T, AstraZeneca, DoorDash, others	These are the stocks posting the largest moves before the bell.
+Mon, 28 Dec 2020 15:36:00 GMT	CNBC	Treasury yields rise after Trump signs Covid relief bill	U.S. bond prices fell on Monday morning after President Donald Trump signed a $900 billion Covid-19 relief bill into law.
+Mon, 04 Jan 2021 15:19:54 GMT	CNBC	Home prices are rising faster in the middle of the U.S. as Covid drives people away from coasts	Home prices are rising across the nation, but the usual geographical trends are being turned on their heads by the coronavirus pandemic.
+Thu, 31 Dec 2020 18:44:28 GMT	CNBC	Weekly jobless claims fall for a second straight week	The number of people filing for unemployment benefits for the first time unexpectedly fell last week, marking its second straight decline.
+Wed, 23 Dec 2020 18:37:18 GMT	CNBC	November new home sales fall more than expected, builder stocks drop	Sales of newly built homes came in far weaker than expected for November, and builder stocks are not taking it well.
+Wed, 23 Dec 2020 14:27:56 GMT	CNBC	Weekly jobless claims rise less than expected, but hold above 800,000	The number of first-time unemployment-benefits filers decelerated to 803,000 in the week ending Dec. 19.
+Tue, 22 Dec 2020 15:48:47 GMT	CNBC	Existing home sales decline for the first time in 5 months as prices rise and supply falls	After five consecutive months of gains, closed sales of existing homes turned lower in November from October.
+Thu, 17 Dec 2020 14:53:17 GMT	CNBC	Weekly jobless claims unexpectedly rise, hit highest level since early September	Jobless claims unexpectedly rose as lawmakers struggle to push through additional coronavirus stimulus measures.
+Wed, 16 Dec 2020 20:00:53 GMT	CNBC	Fed raises its economic outlook slightly, sees 4.2% growth next year and 5% unemployment rate	The central bank now expects real gross domestic product to fall just 2.4% in 2020, compared to the decline of 3.7% predicted in September.
+Wed, 16 Dec 2020 20:38:16 GMT	CNBC	Fed commits to keep buying bonds until the economy gets back to full employment	The Federal Reserve made a key adjustment in its efforts to support the economy, while upgrading its outlook for growth.
+Wed, 16 Dec 2020 15:17:48 GMT	CNBC	Homebuilder confidence drops from record high as rising prices hit buyers	Homebuilder confidence in the single-family housing market pulled back in December. Builders say they are concerned that buyers are feeling shock.
+Wed, 16 Dec 2020 12:00:01 GMT	CNBC	Refinance demand jumps 105% annually, as mortgage rates set 15th record low of 2020	Mortgage demand was flat last week, despite record low rates, but demand is substantially higher than it was last year.
+Tue, 15 Dec 2020 21:07:24 GMT	CNBC	The Fed could disappoint markets Wednesday, even if it keeps a super dovish tone	The Fed could disappoint at least some market pros who are expecting immediate changes in its bond buying program.
+Tue, 15 Dec 2020 23:01:13 GMT	CNBC	'It's an economic war'— Warren Buffett urges Congress to extend relief for small businesses	Warren Buffett urged Congress to extend aid to small businesses as they continue to struggle through the coronavirus pandemic.
+Tue, 15 Dec 2020 15:33:55 GMT	CNBC	Goldman Sachs CEO David Solomon says 90% of small businesses have exhausted PPP funds	Solomon's comments come as lawmakers are taking negotiations to approve another coronavirus stimulus bill down to the wire.
+Fri, 11 Dec 2020 16:22:51 GMT	CNBC	Almost 40% of Americans plan to spend less this holiday season as the Covid pandemic lingers	The average American plans to spend just $886, down 10% from their planned spending last year, according to the CNBC All-America Economic Survey.
+Thu, 10 Dec 2020 19:46:42 GMT	CNBC	Rising unemployment claims could be foreboding for the economy	The surprise jump in jobless claims filings signals a weakening in the labor market that could drag on the economy into the first quarter.
+Thu, 10 Dec 2020 16:56:57 GMT	CNBC	Jobless claims rise more than expected after break from holiday	First-time claims for unemployment insurance totaled 853,000, an increase from the upwardly revised 716,000 total a week before.
+Thu, 10 Dec 2020 14:27:40 GMT	CNBC	Homeowners are $1 trillion richer thanks to the pandemic-driven housing boom	Soaring home prices are padding the pockets of millions of homeowners across the nation. As prices rise, home equity multiplies.
+Wed, 09 Dec 2020 21:31:02 GMT	CNBC	Mortgage rates set 14th record low of the year, driving even more refinance demand	Mortgage rates fell even more, and that is causing a surge in mortgage refinancing.
+Tue, 08 Dec 2020 18:54:29 GMT	CNBC	Economic growth will be better than expected thanks to the resilient services sector, Goldman says	Economists have been worried that the aggressive virus spread will exact an especially large toll on the services sector.
+Tue, 08 Dec 2020 21:50:13 GMT	CNBC	Even with a Covid vaccine, U.S. economy will likely get worse before it gets better: Ned Davis Research	"U.S. stocks are in ""the storm before the calm"" as Covid-19 cases rise, new restrictions are introduced and stimulus fades, says economist Alejandra Grindal."
+Tue, 08 Dec 2020 15:26:26 GMT	CNBC	Wells Fargo CEO Scharf sees swift recovery for US economy in 2021 as vaccines are rolled out	Banks have put up tens of billions of dollars for loan loss reserves tied to the pandemic this year, although most of those reserves haven't been needed yet.
+Wed, 09 Dec 2020 04:42:35 GMT	CNBC	Universal basic income could decimate cities next year, one bank says in its ‘outlandish forecasts’	"Saxo Bank on Tuesday outlined 10 ""outlandish forecasts"" for 2021, although it did stress these are not its ""official"" views."
+Tue, 08 Dec 2020 15:36:29 GMT	CNBC	Borrowers looking to use Fed's Main Street lending program run into dead end	Steven Mnuchin's decision not to extend funding for the Federal Reserve's Main Street Lending Facility after Dec. 31 already looks to be cutting into lending.
+Sat, 05 Dec 2020 15:30:01 GMT	CNBC	Hispanic unemployment from Covid-19 has been cut in half, but can it last?	Job opportunities for Hispanics remain uncertain, even as the jobless rate has been cut in half from the Covid-19 peak level of 16%.
+Fri, 04 Dec 2020 23:35:08 GMT	CNBC	Biden warns the economy is stalling after 'dire' jobs report, calls for 'urgent action' on Covid stimulus	"Biden said Friday's underwhelming jobs report foreshadows a ""dark winter"" that demands ""urgent action"" from Trump and Congress."
+Fri, 04 Dec 2020 16:58:29 GMT	CNBC	Jobs report shows weakening trend heading into holidays, increasing the case for stimulus	Job growth slowed in November and looks set to decline even more, as the spreading pandemic hits all sorts of economic activity.
+Fri, 04 Dec 2020 14:51:43 GMT	CNBC	Employment growth slows sharply in November amid coronavirus surge	Economists surveyed by Dow Jones had been looking for 440,000 and the jobless rate to decrease to 6.7% from 6.9% in October
+Thu, 03 Dec 2020 21:40:52 GMT	CNBC	Christmas tree sales are telling a holly, jolly economic story	Tree sales are up 29% so far in 2020, according to a survey of retailers done by Evercore ISI.
+Thu, 03 Dec 2020 20:04:07 GMT	CNBC	The pace of job gains likely slowed in November due to the impact of virus shutdowns	Job gains in November are expected to be weaker than in October, reflecting the impact of virus-related shutdowns by states and local governments.
+Thu, 03 Dec 2020 15:22:20 GMT	CNBC	Jobless claims hit pandemic-era low as hiring continues even with rising Covid cases	First-time claims for unemployment benefits totaled 712,000 last week, compared with 787,000 a week earlier and the Dow Jones estimate of 780,000.
+Mon, 04 Jan 2021 13:43:00 -0500	Wall Street Journal	Videogames' Immunity Boost Might Linger	The pandemic led to a year of strong sales despite flops and delays and 2021 will likely start out the same.
+Mon, 04 Jan 2021 13:34:00 -0500	Wall Street Journal	U.S. Stocks Slide to Start 2021	U.S. stocks fell on the first trading day of the year, dragged down by losses across everything from manufacturers to beverage makers.
+Mon, 04 Jan 2021 12:11:00 -0500	Wall Street Journal	Brexit Forces Bankers to Shift Trading of European Stocks Out of London	The abrupt move underscores the European Union’s broader plan to bolster its own financial centers.
+Mon, 04 Jan 2021 11:50:00 -0500	Wall Street Journal	Bitcoin Rose Nearly 20% Over Weekend	The digital currency, which has been on an extended rally since early September, took a wild ride over the weekend, briefly spiking over $34,000. It fell as low as $29,069 early Monday.
+Mon, 04 Jan 2021 11:26:00 -0500	Wall Street Journal	Genworth's Merger With China Oceanwide Fizzles	A year-end deadline passed to complete the $2.7 billion deal for the U.S. insurer that was first struck in 2016. Genworth’s shares were off sharply in midday trading.
+Mon, 04 Jan 2021 10:50:00 -0500	Wall Street Journal	Biden Administration Could Unsettle Banks	Percolating policy ideas like postal banking and digital wallets via the Fed give a hint of how Washington could reshape the banking business in the years to come.
+Mon, 04 Jan 2021 09:38:00 -0500	Wall Street Journal	China's Economic Data: Guide for the Dazed and Confused	Investors are right to be skeptical about China’s economic data. Here’s how to interpret it.
+Mon, 04 Jan 2021 09:11:00 -0500	Wall Street Journal	What Chinese ADRs' Delisting Means for Investors	Here are answers to some of the key questions raised by the NYSE’s coming delisting of three big Chinese telecom companies’ American depositary receipts.
+Mon, 04 Jan 2021 08:54:00 -0500	Wall Street Journal	Tesla, FLIR Systems, Bitcoin: What to Watch When the Stock Market Opens Today	S&amp;P 500 futures are rising at the start of the week as investors hope the vaccine rollout will aid economic recovery and benefit stocks
+Mon, 04 Jan 2021 07:51:00 -0500	Wall Street Journal	Cotton Prices Rise as Lack of Rain Shrinks Crop	A weakened dollar, combined with a U.S. ban on Chinese supplies over human-rights concerns, has stoked demand for American cotton as growers struggle with adverse weather.
+Mon, 04 Jan 2021 07:10:00 -0500	Wall Street Journal	Stock Market Rally in 2020 Easily Outpaced Luxury Goods, Hedge Funds	In 2020, you were better off putting money into a stock index fund than in fine art or diamonds.
+Mon, 04 Jan 2021 06:51:00 -0500	Wall Street Journal	MGM's Entain Bet Could Help the House Keep Winning	Casino operator MGM Resorts is wagering that gambling’s move online will persist to an extent even after the pandemic ebbs.
+Mon, 04 Jan 2021 05:30:00 -0500	Wall Street Journal	Fidelity's Challenge Is to Turn Day Traders Into Longtime Clients	Fidelity is betting its new investors will graduate to more lucrative offerings such as financial advice. Whether the strategy works won’t be known for some time.
+Mon, 04 Jan 2021 05:27:00 -0500	Wall Street Journal	Looming Delisting Jolts Chinese Telecom Stocks	Shares in China’s three large telecom carriers were roiled, after the New York Stock Exchange moved to delist the trio to comply with a U.S. ban.
+Mon, 04 Jan 2021 03:05:00 -0500	Wall Street Journal	MGM Makes $11 Billion Offer for Ladbrokes Owner Entain	The British gaming company said the offer, which would have a substantial stock component, significantly undervalues the company.
+Sun, 03 Jan 2021 22:56:00 -0500	Wall Street Journal	Icahn Sells More Than Half of His Herbalife Stake	Carl Icahn is also relinquishing his seats on the nutritional-supplements company’s board, taking a step back from a longtime investment.
+Sun, 03 Jan 2021 13:22:00 -0500	Wall Street Journal	How the American Mortgage Machine Works	Investors who don’t understand how the U.S. housing-finance industry fits together might one day find themselves scrambling for shelter.
+Sun, 03 Jan 2021 11:00:00 -0500	Wall Street Journal	Risk Takers Bet Asset-Backed Bonds Will Catch Up	Bargains on Wall Street are hard to find after the fierce 2020 rally in stock and bond prices. Some investors are sifting through complex securities that were among the hardest hit by panic selling this past spring.
+Sun, 03 Jan 2021 10:00:00 -0500	Wall Street Journal	Double Stock-Market Bubble Brings Toil and (Perhaps) Trouble	Various investments previously viewed as overpriced showed big gains in 2020. Are we in a new era of wild speculation driven by cheap money that must inevitably come to an end?
+Sun, 03 Jan 2021 09:05:00 -0500	Wall Street Journal	Cleared Hurdle Still Leaves Tesla Stock in Ludicrous Mode	Tesla has met its own guidance for annual production, but its valuation still looks hard to justify.
+Jan 04, 2021 16:36 GMT	Investing.com	Time To Reset Your Investment Portfolio In 2021?	None
+Jan 04, 2021 07:15 GMT	Investing.com	Pay Attention For U.S. Nonfarm Payrolls And FOMC Minutes This Week	None
+Jan 03, 2021 12:56 GMT	Investing.com	Week Ahead: Georgia Senate Race Amps Up Market Volatility; Bitcoin Tops $34K	None
+Jan 03, 2021 05:27 GMT	Investing.com	State Of The Markets As We Start 2021	None
+Jan 02, 2021 15:42 GMT	Investing.com	2021: A Dangerous Year For Long-Term Investors	None
+Dec 31, 2020 11:25 GMT	Investing.com	Opening Bell: Stocks End 2020 Near All-Time Highs; Dollar At 2-Year Low	None
+Dec 31, 2020 08:58 GMT	Investing.com	Gold, Silver And Thinking Outside The Box	None
+Dec 30, 2020 19:16 GMT	Investing.com	Outlook 2021: Supply/Demand Fundamentals for Precious Metals	None
+Dec 30, 2020 13:30 GMT	Investing.com	Opening Bell: Futures, Stocks Rise; USD Falls; Bitcoin Hits Another New Record	None
+Dec 29, 2020 21:48 GMT	Investing.com	Outlook 2021: What To Expect From Equities, Bitcoin And The  U.S. Dollar	None
+Jan 04, 2021 12:07 GMT	Investing.com	Opening Bell: U.S. Futures, Global Stocks Surge; Gold Jumps, USD, Bitcoin Fall	None
+Jan 04, 2021 09:47 GMT	Investing.com	Georgia On My Mind	None
+Jan 04, 2021 08:38 GMT	Investing.com	Gain In Risk Assets Will Continue, But Could Slow	None
+Jan 04, 2021 08:32 GMT	Investing.com	Weekly Outlook: New Year Starts With Georgia Election, CPIs and U.S. NFPs	None
+Jan 04, 2021 07:15 GMT	Investing.com	Pay Attention For U.S. Nonfarm Payrolls And FOMC Minutes This Week	None
+Jan 04, 2021 05:08 GMT	Investing.com	A Whacky, Strange But Profitable Year	None
+Jan 03, 2021 12:56 GMT	Investing.com	Week Ahead: Georgia Senate Race Amps Up Market Volatility; Bitcoin Tops $34K	None
+Jan 03, 2021 06:15 GMT	Investing.com	No Predictions, But Some Thoughts On Where Markets Might Go In The New Year	None
+Jan 03, 2021 06:02 GMT	Investing.com	Will The Fed Destroy The Dollar?	None
+Jan 03, 2021 05:27 GMT	Investing.com	State Of The Markets As We Start 2021	None
+Jan 04, 2021 16:36 GMT	Investing.com	Time To Reset Your Investment Portfolio In 2021?	None
+Jan 04, 2021 08:32 GMT	Investing.com	Weekly Outlook: New Year Starts With Georgia Election, CPIs and U.S. NFPs	None
+Dec 30, 2020 09:58 GMT	Investing.com	Plus Ça Change: A French Lesson In Monetary Debauchery	None
+Dec 29, 2020 07:41 GMT	Investing.com	Sentiment Stays Supported With Wall Street Hitting Fresh Records	None
+Dec 29, 2020 05:07 GMT	Investing.com	Wall Street Bullish On 2021, But Fundamentals Tell A Different Story	None
+Dec 28, 2020 19:45 GMT	Investing.com	Further U.S. Dollar Debasement Ahead In 2021	None
+Dec 22, 2020 08:45 GMT	Investing.com	Mutated COVID In Britain, U.S. Congress Approves Aid Package	None
+Dec 18, 2020 08:30 GMT	Investing.com	Risk Sentiment Softens Somewhat, GBP Pulls Back	None
+Dec 17, 2020 08:22 GMT	Investing.com	USD Slides After Fed, SNB, BoE And BoJ Take Their Turn	None
+Dec 15, 2020 08:28 GMT	Investing.com	GBP Gains On Brexit Deal Hopes, AUD Slides On Trade Tensions	None
+Dec 01, 2020 10:18 GMT	Investing.com	AUD/USD Enjoys Upswing, Dollar Declines	None
+Nov 20, 2020 07:24 GMT	Investing.com	Portfolio Design First Principles	None
+Nov 18, 2020 10:57 GMT	Investing.com	Setups For Dollar Index, Platinum Futures, DAX	None
+Nov 15, 2020 06:53 GMT	Investing.com	Gold’s Momentous Rally Compared To SPY & QQQ – Part I	None
+Nov 05, 2020 09:47 GMT	Investing.com	Indices And Commodities Up, USD Down	None
+Nov 01, 2020 06:21 GMT	Investing.com	6 Speculative REIT Ideas To Consider	None
+Oct 26, 2020 15:00 GMT	Investing.com	Election May Impact Near-Term Action in Gold And Silver	None
+Oct 22, 2020 05:30 GMT	Investing.com	Who Says Value’s Dead?	None
+Sep 16, 2020 10:37 GMT	Investing.com	3 Great Setups Ahead Of The FOMC	None
+Aug 21, 2020 15:09 GMT	Investing.com	Could Buffett Buy 130 Million Ounces Of Silver Again?By Mike Gleason, Money Meta	None
+Jan 04, 2021 10:36 GMT	Investing.com	Bitcoin As Gateway To Ethereum Sees ETH Breach $1,000 Milestone	None
+Jan 04, 2021 09:19 GMT	Investing.com	Ethereum Just Topped $11,00, What Now?	None
+Jan 04, 2021 05:33 GMT	Investing.com	Ethereum Hits $100 Billion Market Cap In Parabolic Run	None
+Jan 04, 2021 05:31 GMT	Investing.com	What’s The Frequency, Bitcoin?	None
+Jan 04, 2021 05:17 GMT	Investing.com	Cryptocurrencies Have Peaked	None
+Jan 03, 2021 11:48 GMT	Investing.com	Ethereum Tops $800 As Bitcoin Marks Birthday At $34,000	None
+Jan 03, 2021 06:06 GMT	Investing.com	Bitcoin Soars Past $30,000 In Latest Record High	None
+Jan 03, 2021 04:53 GMT	Investing.com	Bitcoin Keeps Going Bananas	None
+Dec 31, 2020 10:16 GMT	Investing.com	Binance.US To Delist XRP Amid Ripple Lawsuit	None
+Dec 31, 2020 08:56 GMT	Investing.com	Bitcoin Price Eyes $30K Level	None
+Jan 04, 2021 15:11 GMT	Investing.com	What Will U.S. Dollar Ring In For 2021?	None
+Jan 04, 2021 15:01 GMT	Investing.com	Can EUR/USD Reverse Down?	None
+Jan 04, 2021 13:32 GMT	Investing.com	GBP/USD Breakout	None
+Jan 04, 2021 11:15 GMT	Investing.com	Rising Equities And Slumping Dollar Greet The New Year	None
+Jan 04, 2021 10:25 GMT	Investing.com	Will The Euro And Pound Rally Continue in 2021?	None
+Jan 04, 2021 07:26 GMT	Investing.com	USD ASIA FX Is Very Offerish	None
+Jan 04, 2021 05:37 GMT	Investing.com	January Monthly: U.S. Dollar Begins Year With Substantial Downside Momentum	None
+Jan 03, 2021 06:02 GMT	Investing.com	Will U.S.-China Relations Continue To Deteriorate In 2021?	None
+Dec 31, 2020 16:22 GMT	Investing.com	Sterling Ends 2020 In Style	None
+Dec 31, 2020 11:49 GMT	Investing.com	EUR/AUD Tumbles Below Key Support of 1.6025	None
+Jan 04, 2021 15:11 GMT	Investing.com	What Will U.S. Dollar Ring In For 2021?	None
+Jan 04, 2021 15:01 GMT	Investing.com	Can EUR/USD Reverse Down?	None
+Jan 04, 2021 13:32 GMT	Investing.com	GBP/USD Breakout	None
+Jan 04, 2021 10:25 GMT	Investing.com	Will The Euro And Pound Rally Continue in 2021?	None
+Jan 03, 2021 06:02 GMT	Investing.com	Will U.S.-China Relations Continue To Deteriorate In 2021?	None
+Dec 31, 2020 11:49 GMT	Investing.com	EUR/AUD Tumbles Below Key Support of 1.6025	None
+Dec 30, 2020 15:11 GMT	Investing.com	EUR/USD In Strong Bull Trend, But Possible Wedge Forming	None
+Dec 29, 2020 15:31 GMT	Investing.com	EUR/USD In Small Pullback Bull Trend	None
+Dec 29, 2020 11:39 GMT	Investing.com	Is a Reversal Looming In GBP/CAD?	None
+Dec 29, 2020 10:53 GMT	Investing.com	3 Setups For The Japanese Yen Now	None
+Jan 04, 2021 11:15 GMT	Investing.com	Rising Equities And Slumping Dollar Greet The New Year	None
+Jan 04, 2021 10:25 GMT	Investing.com	Will The Euro And Pound Rally Continue in 2021?	None
+Jan 04, 2021 07:26 GMT	Investing.com	USD ASIA FX Is Very Offerish	None
+Jan 04, 2021 05:37 GMT	Investing.com	January Monthly: U.S. Dollar Begins Year With Substantial Downside Momentum	None
+Dec 31, 2020 16:22 GMT	Investing.com	Sterling Ends 2020 In Style	None
+Dec 31, 2020 09:50 GMT	Investing.com	U.S. Dollar Retreat Continues	None
+Dec 30, 2020 10:17 GMT	Investing.com	U.S. Dollar Grinds Lower	None
+Dec 29, 2020 10:01 GMT	Investing.com	The U.S. Dollar Falls In Asia	None
+Dec 29, 2020 05:08 GMT	Investing.com	USD Continues To Get Weighed Down	None
+Dec 28, 2020 22:33 GMT	Investing.com	What’s The Chance Of A New Year's Week FX Breakout?	None
+Jan 04, 2021 10:25 GMT	Investing.com	Will The Euro And Pound Rally Continue in 2021?	None
+Dec 29, 2020 10:53 GMT	Investing.com	3 Setups For The Japanese Yen Now	None
+Dec 28, 2020 11:29 GMT	Investing.com	Euro Trying to Rise	None
+Dec 21, 2020 12:25 GMT	Investing.com	Euro Losing Its Weight	None
+Dec 18, 2020 13:05 GMT	Investing.com	Stronger Euro Is A Sign Of A Healthier World Economy	None
+Dec 17, 2020 11:17 GMT	Investing.com	Dollar Fall Accelerates	None
+Dec 09, 2020 11:38 GMT	Investing.com	Will The ECB Be Able To Reverse The Euro's Growth?	None
+Dec 02, 2020 10:10 GMT	Investing.com	Dollar Weakness Takes EUR/USD To A New Range	None
+Dec 01, 2020 12:37 GMT	Investing.com	U.S. Dollar Returns To Decline In The New Month	None
+Nov 30, 2020 13:49 GMT	Investing.com	British Pound Remains Cheerful	None
+Jan 04, 2021 10:25 GMT	Investing.com	Will The Euro And Pound Rally Continue in 2021?	None
+Dec 29, 2020 10:53 GMT	Investing.com	3 Setups For The Japanese Yen Now	None
+Dec 28, 2020 11:29 GMT	Investing.com	Euro Trying to Rise	None
+Nov 30, 2020 09:33 GMT	Investing.com	EUR/USD: Is 1.20 The Limit?	None
+Nov 23, 2020 10:48 GMT	Investing.com	GBP/USD: Primed For Run Towards 1.35?	None
+Nov 05, 2020 09:55 GMT	Investing.com	Japanese Candlesticks Analysis: USD/CAD, AUD/USD, USD/CHF	None
+Nov 04, 2020 09:14 GMT	Investing.com	Gold, NZD/USD, GBP/USD: Japanese Candlestick Analysis	None
+Nov 03, 2020 09:17 GMT	Investing.com	EUR/USD, USD/JPY, EUR/GBP: Japanese Candlesticks Analysis	None
+Nov 02, 2020 08:22 GMT	Investing.com	USD/CAD, AUD/USD, USD/CHF: Japanese Candlesticks Analysis	None
+Oct 30, 2020 10:23 GMT	Investing.com	Gold, NZD/USD, GBP/USD: Japanese Candlestick Analysis	None
+Jan 03, 2021 12:56 GMT	Investing.com	1 Stock To Buy, 1 To Dump When Markets Open: Tesla, Alibaba	None
+Jan 04, 2021 12:07 GMT	Investing.com	Opening Bell: U.S. Futures, Global Stocks Surge; Gold Jumps, USD, Bitcoin Fall	None
+Jan 04, 2021 06:22 GMT	Investing.com	For Gold Traders, It’s “Georgia On My Mind” As U.S. Senate Control Looms	None
+Jan 03, 2021 12:56 GMT	Investing.com	Week Ahead: Georgia Senate Race Amps Up Market Volatility; Bitcoin Tops $34K	None
+Jan 03, 2021 05:46 GMT	Investing.com	Could Gold And Silver Go Vertical In 2021?	None
+Jan 04, 2021 08:10 GMT	Investing.com	December 2020 Market Wrap: Modest Gains After A Huge Year. What's Next?	None
+Jan 03, 2021 06:15 GMT	Investing.com	No Predictions, But Some Thoughts On Where Markets Might Go In The New Year	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 11:04 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 12:07 GMT	Investing.com	Opening Bell: U.S. Futures, Global Stocks Surge; Gold Jumps, USD, Bitcoin Fall	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 11:04 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 08:10 GMT	Investing.com	December 2020 Market Wrap: Modest Gains After A Huge Year. What's Next?	None
+Jan 04, 2021 06:22 GMT	Investing.com	For Gold Traders, It’s “Georgia On My Mind” As U.S. Senate Control Looms	None
+Jan 03, 2021 12:56 GMT	Investing.com	Week Ahead: Georgia Senate Race Amps Up Market Volatility; Bitcoin Tops $34K	None
+Jan 03, 2021 12:56 GMT	Investing.com	1 Stock To Buy, 1 To Dump When Markets Open: Tesla, Alibaba	None
+Dec 31, 2020 21:04 GMT	Investing.com	5 Oil Market Factors To Watch In 2021	None
+Dec 31, 2020 20:20 GMT	Investing.com	2020 Year In Review: Investing.com Comic Edition	None
+Jan 04, 2021 18:21 GMT	Investing.com	Long- And Short-Term Stock Market Forecasts	None
+Jan 04, 2021 17:33 GMT	Investing.com	Investor Sentiment And Valuation Remain Cautionary	None
+Jan 04, 2021 16:10 GMT	Investing.com	2021 Kicks Off Stronger As Moderna, Tesla Climb	None
+Jan 04, 2021 15:50 GMT	Investing.com	Still Looking Ahead, But…	None
+Jan 04, 2021 15:04 GMT	Investing.com	E-mini Will Probably Gap Up Today On The Yearly, Monthly, Weekly, And Daily Charts	None
+Jan 04, 2021 11:25 GMT	Investing.com	When Will Stocks Reach Their Ceiling?	None
+Jan 04, 2021 11:04 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 11:03 GMT	Investing.com	Asian Markets Mixed, China Higher	None
+Jan 04, 2021 09:45 GMT	Investing.com	Why There Is Literally No 'Cash On The Sidelines'	None
+Jan 04, 2021 09:03 GMT	Investing.com	These 'Stealth' 5% Dividends Are Really 8.3%	None
+Jan 04, 2021 18:21 GMT	Investing.com	Long- And Short-Term Stock Market Forecasts	None
+Jan 04, 2021 17:33 GMT	Investing.com	Investor Sentiment And Valuation Remain Cautionary	None
+Jan 04, 2021 15:04 GMT	Investing.com	E-mini Will Probably Gap Up Today On The Yearly, Monthly, Weekly, And Daily Charts	None
+Jan 04, 2021 09:45 GMT	Investing.com	Why There Is Literally No 'Cash On The Sidelines'	None
+Jan 04, 2021 09:03 GMT	Investing.com	These 'Stealth' 5% Dividends Are Really 8.3%	None
+Jan 04, 2021 05:30 GMT	Investing.com	10 Monster Stock Market Predictions	None
+Jan 04, 2021 04:59 GMT	Investing.com	2020 Market Wrap And 2021 Forecast: A Dimmer Sun?	None
+Jan 03, 2021 06:12 GMT	Investing.com	Stock Market News	None
+Jan 03, 2021 05:35 GMT	Investing.com	Can A Bubble Be A Bubble If Everyone Calls It A Bubble?	None
+Jan 03, 2021 04:44 GMT	Investing.com	So Far, The Bulls Are Disappointed In Santa	None
+Jan 04, 2021 16:10 GMT	Investing.com	2021 Kicks Off Stronger As Moderna, Tesla Climb	None
+Jan 04, 2021 15:50 GMT	Investing.com	Still Looking Ahead, But…	None
+Jan 04, 2021 11:25 GMT	Investing.com	When Will Stocks Reach Their Ceiling?	None
+Jan 04, 2021 11:04 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 11:03 GMT	Investing.com	Asian Markets Mixed, China Higher	None
+Jan 04, 2021 08:10 GMT	Investing.com	December 2020 Market Wrap: Modest Gains After A Huge Year. What's Next?	None
+Jan 04, 2021 05:06 GMT	Investing.com	S&P 500 EPS Weekly Update: Some Math On Potential Corporate Tax Rate Increase	None
+Jan 04, 2021 04:59 GMT	Investing.com	2020 Market Wrap And 2021 Forecast: A Dimmer Sun?	None
+Jan 03, 2021 12:56 GMT	Investing.com	1 Stock To Buy, 1 To Dump When Markets Open: Tesla, Alibaba	None
+Jan 03, 2021 06:13 GMT	Investing.com	Nano-X Imaging: Reimagining The X-Ray	None
+Dec 28, 2020 03:47 GMT	Investing.com	Poshmark: On The Verge Of Greatness	None
+Dec 27, 2020 05:26 GMT	Investing.com	10 Monster Stock Market Predictions For 2021	None
+Dec 23, 2020 05:01 GMT	Investing.com	S&P 500: Bubble Dynamics	None
+Dec 22, 2020 09:24 GMT	Investing.com	Investing Strategy For 2021 For 7% Dividends Ahead, 20% Gains	None
+Dec 22, 2020 09:21 GMT	Investing.com	Will The S&P 500 Drop Further?	None
+Dec 22, 2020 04:07 GMT	Investing.com	Burger King India: Fast Growth With No Profits	None
+Dec 17, 2020 14:32 GMT	Investing.com	S&P 500: Surging Jobless Claims Could Extend Bearish Sentiments	None
+Dec 17, 2020 11:20 GMT	Investing.com	3 “Perfect 10” Stocks That Are Still Undervalued	None
+Dec 10, 2020 07:10 GMT	Investing.com	3 “Perfect 10” Stocks That Could Reach New Highs	None
+Dec 09, 2020 11:20 GMT	Investing.com	Could We Be Nearing The S&P 500 Top?	None
+Jan 04, 2021 09:03 GMT	Investing.com	These 'Stealth' 5% Dividends Are Really 8.3%	None
+Dec 31, 2020 09:02 GMT	Investing.com	Prediction: These 3 Hated Funds Will Soar (And Pay Big Dividends) In 2021	None
+Dec 30, 2020 09:05 GMT	Investing.com	21 REIT Dividends I Love (And Hate!) For 2021	None
+Dec 28, 2020 09:08 GMT	Investing.com	3 Little-Known Funds With Monster Dividends	None
+Dec 23, 2020 09:36 GMT	Investing.com	27% Returns After A Dividend Cut? Here’s How	None
+Dec 22, 2020 09:24 GMT	Investing.com	Investing Strategy For 2021 For 7% Dividends Ahead, 20% Gains	None
+Dec 17, 2020 11:20 GMT	Investing.com	3 “Perfect 10” Stocks That Are Still Undervalued	None
+Dec 17, 2020 09:11 GMT	Investing.com	3 Big Dividends That Soared In 2020	None
+Dec 14, 2020 09:06 GMT	Investing.com	Forget Vaccines: This Will Ignite Stocks In 2021	None
+Dec 10, 2020 09:20 GMT	Investing.com	This Quick Pivot Could Boost Your Dividends In 2021	None
+Jan 04, 2021 16:10 GMT	Investing.com	2021 Kicks Off Stronger As Moderna, Tesla Climb	None
+Jan 04, 2021 11:25 GMT	Investing.com	When Will Stocks Reach Their Ceiling?	None
+Jan 04, 2021 11:04 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 09:45 GMT	Investing.com	Why There Is Literally No 'Cash On The Sidelines'	None
+Jan 04, 2021 09:03 GMT	Investing.com	These 'Stealth' 5% Dividends Are Really 8.3%	None
+Jan 04, 2021 08:10 GMT	Investing.com	December 2020 Market Wrap: Modest Gains After A Huge Year. What's Next?	None
+Jan 04, 2021 05:30 GMT	Investing.com	10 Monster Stock Market Predictions	None
+Jan 04, 2021 05:06 GMT	Investing.com	S&P 500 EPS Weekly Update: Some Math On Potential Corporate Tax Rate Increase	None
+Jan 03, 2021 12:56 GMT	Investing.com	1 Stock To Buy, 1 To Dump When Markets Open: Tesla, Alibaba	None
+Jan 03, 2021 06:13 GMT	Investing.com	Nano-X Imaging: Reimagining The X-Ray	None
+Jan 04, 2021 18:21 GMT	Investing.com	Long- And Short-Term Stock Market Forecasts	None
+Jan 04, 2021 17:33 GMT	Investing.com	Investor Sentiment And Valuation Remain Cautionary	None
+Jan 04, 2021 16:10 GMT	Investing.com	2021 Kicks Off Stronger As Moderna, Tesla Climb	None
+Jan 04, 2021 15:50 GMT	Investing.com	Still Looking Ahead, But…	None
+Jan 04, 2021 15:04 GMT	Investing.com	E-mini Will Probably Gap Up Today On The Yearly, Monthly, Weekly, And Daily Charts	None
+Jan 04, 2021 08:10 GMT	Investing.com	December 2020 Market Wrap: Modest Gains After A Huge Year. What's Next?	None
+Jan 04, 2021 05:06 GMT	Investing.com	S&P 500 EPS Weekly Update: Some Math On Potential Corporate Tax Rate Increase	None
+Jan 04, 2021 04:59 GMT	Investing.com	2020 Market Wrap And 2021 Forecast: A Dimmer Sun?	None
+Dec 31, 2020 15:36 GMT	Investing.com	Emini IOI Breakout Mode On Final Day Of 2020	None
+Dec 31, 2020 15:07 GMT	Investing.com	Market Looks To Round Out 2020 In Quiet Fashion	None
+Dec 22, 2020 15:15 GMT	Investing.com	E-mini Formed A Big High 1 Buy Signal Bar For A Possible Yearend Rally	None
+Dec 21, 2020 15:37 GMT	Investing.com	E-mini Breaking Below Its 5-Week Bull Channel At End Of The Year	None
+Dec 21, 2020 08:14 GMT	Investing.com	New COVID Strain Spurs Risk-Off	None
+Dec 17, 2020 14:32 GMT	Investing.com	S&P 500: Surging Jobless Claims Could Extend Bearish Sentiments	None
+Dec 17, 2020 14:32 GMT	Investing.com	E-mini Might Form Wedge Top In Year End Small Pullback Bull Trend	None
+Dec 10, 2020 14:50 GMT	Investing.com	E-mini Rally Likely To Reverse In The Second Half Of December	None
+Dec 04, 2020 18:15 GMT	Investing.com	Job Numbers, Bonds, Equities And What We Are Seeing	None
+Dec 03, 2020 09:40 GMT	Investing.com	DAX Pausing Before A New Bull Run	None
+Dec 02, 2020 14:32 GMT	Investing.com	E-mini Gapped Up In December To New All-Time High On Monthly Chart	None
+Dec 01, 2020 14:55 GMT	Investing.com	E-mini Gapping Up In December To New All-Time High On Monthly Chart	None
+Jan 04, 2021 09:29 GMT	Investing.com	2 ETFs For Investors With Financial New Year's Resolutions	None
+Jan 04, 2021 05:12 GMT	Investing.com	Broad Bottom In Cannabis Sector Suggests 2021 May Be Good Year For Pot Stocks	None
+Jan 04, 2021 05:06 GMT	Investing.com	New Year, Fresh Start For Markets	None
+Jan 03, 2021 05:49 GMT	Investing.com	2020:  Year Of The Long, Long Wicks	None
+Dec 31, 2020 07:08 GMT	Investing.com	These ETFs Were On Fire In 2020 – With More Possible Upside In 2021	None
+Dec 30, 2020 13:26 GMT	Investing.com	ETF Winners And Losers In 2020	None
+Dec 30, 2020 12:08 GMT	Investing.com	S&P 500 Could Peak In Early April 2021. Here's Why – Part II	None
+Dec 29, 2020 19:45 GMT	Investing.com	Is Russell 2000 ETF Set To Rollover?	None
+Dec 29, 2020 10:19 GMT	Investing.com	Want To Take Advantage Of The January Effect? 2 Small Cap ETFs Can Help	None
+Dec 29, 2020 04:52 GMT	Investing.com	When Large Caps Rally, Do Small Caps Get Smaller?	None
+Sep 22, 2020 14:21 GMT	Investing.com	S&P 500 Options And What They're Signaling About The Market	None
+Sep 06, 2020 08:18 GMT	Investing.com	Gamma Flips And Regime Changes	None
+Sep 03, 2020 04:31 GMT	Investing.com	A Speculative Feeding Frenzy Like We’ve Never Seen Before	None
+Jul 22, 2020 10:44 GMT	Investing.com	Options Risk In The Stock Market	None
+Jul 15, 2020 14:35 GMT	Investing.com	VIX Alarm Bells Ringing As Investor Worries Mount Over COVID-19	None
+Jul 15, 2020 05:48 GMT	Investing.com	Turning Neutral In Emini S&P, For Now	None
+Mar 04, 2020 21:05 GMT	Investing.com	The Biden Bounce: Spoiler Alert	None
+Mar 04, 2020 12:23 GMT	Investing.com	DAX Jumps On Hopes ECB Will Follow Fed	None
+Mar 04, 2020 10:20 GMT	Investing.com	Euro Dips As Coronavirus Spreads In Europe	None
+Mar 04, 2020 08:16 GMT	Investing.com	Key Levels To Hold And Risks To Watch Today	None
+Jan 04, 2021 16:25 GMT	Investing.com	Hi Yo Silver Time, As Bull Flag Breakout In Play!	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 11:59 GMT	Investing.com	Silver Gaps Above 26.70	None
+Jan 04, 2021 11:51 GMT	Investing.com	Oil And Gold Start 2020 On Bright Note	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 06:22 GMT	Investing.com	For Gold Traders, It’s “Georgia On My Mind” As U.S. Senate Control Looms	None
+Jan 04, 2021 05:34 GMT	Investing.com	Expect A Big Move In Gold, Silver And The Mining Stocks This Year	None
+Jan 04, 2021 02:07 GMT	Investing.com	Crude Oil Forecast	None
+Jan 04, 2021 02:01 GMT	Investing.com	Gold Forecast	None
+Jan 03, 2021 05:57 GMT	Investing.com	Seeking Gold 2401 In 2021	None
+Jan 04, 2021 16:25 GMT	Investing.com	Hi Yo Silver Time, As Bull Flag Breakout In Play!	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 11:59 GMT	Investing.com	Silver Gaps Above 26.70	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 02:07 GMT	Investing.com	Crude Oil Forecast	None
+Jan 04, 2021 02:01 GMT	Investing.com	Gold Forecast	None
+Jan 03, 2021 05:57 GMT	Investing.com	Seeking Gold 2401 In 2021	None
+Jan 03, 2021 05:46 GMT	Investing.com	Could Gold And Silver Go Vertical In 2021?	None
+Jan 02, 2021 14:20 GMT	Investing.com	Natural Gas Price Ranges Are Moving Lower	None
+Dec 30, 2020 18:48 GMT	Investing.com	Gold Seeks Direction As USDX Slips	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 11:51 GMT	Investing.com	Oil And Gold Start 2020 On Bright Note	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 06:22 GMT	Investing.com	For Gold Traders, It’s “Georgia On My Mind” As U.S. Senate Control Looms	None
+Jan 04, 2021 05:34 GMT	Investing.com	Expect A Big Move In Gold, Silver And The Mining Stocks This Year	None
+Dec 31, 2020 21:04 GMT	Investing.com	5 Oil Market Factors To Watch In 2021	None
+Dec 31, 2020 20:27 GMT	Investing.com	A Year Like No Other For Precious Metals… and Everything Else	None
+Dec 31, 2020 15:46 GMT	Investing.com	What Are Gold’s New Year’s Resolutions?	None
+Dec 31, 2020 11:11 GMT	Investing.com	Oil Steady, Gold Knocking On USD1900 Line	None
+Dec 31, 2020 04:55 GMT	Investing.com	Gold And Silver Will Likely Soar	None
+Dec 29, 2020 09:06 GMT	Investing.com	Gold Mining Stocks Are Trades, Not Investments	None
+Dec 26, 2020 14:39 GMT	Investing.com	Natural Gas Support At $2.40 To Be Tested	None
+Dec 23, 2020 06:57 GMT	Investing.com	Natural Gas: Bullish Cross Over Near Completion	None
+Dec 22, 2020 12:18 GMT	Investing.com	With Dovish Powell, Can Gold Shine Again?	None
+Dec 22, 2020 05:05 GMT	Investing.com	The Collapse Of U.S. Shale Oil Production Has Now Begun	None
+Dec 20, 2020 08:37 GMT	Investing.com	Natural Gas: Last Bullish Move	None
+Dec 20, 2020 05:19 GMT	Investing.com	Gold On Track To 1900+ As Santa Heads To Town	None
+Dec 19, 2020 13:31 GMT	Investing.com	Natural Gas Bounce Offers Another Selling Opportunity	None
+Dec 17, 2020 08:34 GMT	Investing.com	Natural Gas: Bulls Could Head Higher	None
+Dec 14, 2020 14:35 GMT	Investing.com	Oil: How Much Higher Could It Go?	None
+Dec 10, 2020 05:00 GMT	Investing.com	Copper And Bonds: What To Watch For Early Warnings Of Equities Reversal	None
+Dec 06, 2020 05:42 GMT	Investing.com	Gold Wave Forecast: Is Gold Going To $3750 Or Higher?	None
+Nov 24, 2020 13:52 GMT	Investing.com	Gold Breaks Major Support	None
+Nov 19, 2020 13:24 GMT	Investing.com	Perfect Opportunity To Short Oil	None
+Nov 13, 2020 05:35 GMT	Investing.com	Gold And Digital Gold In 2020	None
+Nov 01, 2020 05:01 GMT	Investing.com	Silver Futures: The Perfect Storm?	None
+Oct 18, 2020 04:43 GMT	Investing.com	Got Gold? Why The Yellow Metal Is On Track To Win	None
+Sep 23, 2020 12:20 GMT	Investing.com	Gold And Silver Are Still Locked And Loaded	None
+Sep 03, 2020 10:16 GMT	Investing.com	Commodities Mixed Despite Stronger USD	None
+Sep 02, 2020 11:45 GMT	Investing.com	Gold Is Warming Up Before Its Next Move	None
+Jan 04, 2021 16:25 GMT	Investing.com	Hi Yo Silver Time, As Bull Flag Breakout In Play!	None
+Jan 04, 2021 14:41 GMT	Investing.com	Chart Of The Day: Gold Breaks Its Bearish Selling Line; Trend Now Brighter	None
+Jan 04, 2021 11:59 GMT	Investing.com	Silver Gaps Above 26.70	None
+Jan 04, 2021 11:51 GMT	Investing.com	Oil And Gold Start 2020 On Bright Note	None
+Jan 04, 2021 06:22 GMT	Investing.com	For Gold Traders, It’s “Georgia On My Mind” As U.S. Senate Control Looms	None
+Jan 04, 2021 05:34 GMT	Investing.com	Expect A Big Move In Gold, Silver And The Mining Stocks This Year	None
+Jan 04, 2021 02:01 GMT	Investing.com	Gold Forecast	None
+Jan 03, 2021 05:57 GMT	Investing.com	Seeking Gold 2401 In 2021	None
+Jan 03, 2021 05:46 GMT	Investing.com	Could Gold And Silver Go Vertical In 2021?	None
+Dec 31, 2020 15:46 GMT	Investing.com	What Are Gold’s New Year’s Resolutions?	None
+Jan 04, 2021 11:51 GMT	Investing.com	Oil And Gold Start 2020 On Bright Note	None
+Jan 04, 2021 11:12 GMT	Investing.com	After Wild 2020,  Here's A Variety Of Energy Commodity Considerations For 2021	None
+Jan 04, 2021 02:07 GMT	Investing.com	Crude Oil Forecast	None
+Jan 02, 2021 14:20 GMT	Investing.com	Natural Gas Price Ranges Are Moving Lower	None
+Dec 31, 2020 21:04 GMT	Investing.com	5 Oil Market Factors To Watch In 2021	None
+Dec 31, 2020 11:11 GMT	Investing.com	Oil Steady, Gold Knocking On USD1900 Line	None
+Dec 30, 2020 10:27 GMT	Investing.com	Oil And Gold Drifting In Thin Trade	None
+Dec 29, 2020 10:22 GMT	Investing.com	Oil Range Trades, Gold Rises Slightly	None
+Dec 28, 2020 16:47 GMT	Investing.com	Commodities Rallied And Emerging Markets Tanked Last Week	None
+Dec 28, 2020 16:15 GMT	Investing.com	Commodities Breaking Out, Suggesting Bull Market Ahead	None
+Dec 30, 2020 08:25 GMT	Investing.com	Commodities Year Ahead: Soy, Orange Juice Could Extend 2020 Gains In Ags/Softs	None
+Dec 28, 2020 12:47 GMT	Investing.com	Commodities Ending 2020 On Bullish Note; Trend Will Continue In 2021	None
+Dec 23, 2020 08:50 GMT	Investing.com	Orange Juice Looking At First Profitable Year in 5, Thanks To COVID	None
+Dec 22, 2020 05:49 GMT	Investing.com	Where Will Commodities Go In 2021?	None
+Dec 21, 2020 11:15 GMT	Investing.com	Copper And Lumber Sending Signals For All Markets In 2021	None
+Dec 16, 2020 14:31 GMT	Investing.com	Corn And Ethanol: Success Industries Rethink How To Stack The Deck	None
+Dec 16, 2020 08:42 GMT	Investing.com	Sugar: 7-Week Low Could Offer Sweet Buying Opportunity	None
+Dec 11, 2020 09:55 GMT	Investing.com	Coffee Is Coming Back, Says Starbucks; Really? Ask Arabica Investors	None
+Dec 09, 2020 09:14 GMT	Investing.com	Cocoa Melts Down As COVID Disrupts Holiday Sweetness	None
+Dec 07, 2020 11:04 GMT	Investing.com	What Key November Reversals Mean For Commodities Going Into 2021	None
+Dec 22, 2020 09:16 GMT	Investing.com	EU Bonds Changing View On Government Debt But Treasuries To Still Rule In 2021	None
+Dec 15, 2020 08:33 GMT	Investing.com	European Bond Yields Rise As Brexit Talks Lead To Cautious Deal Optimism	None
+Dec 11, 2020 07:12 GMT	Investing.com	Treasury Market Expects Higher Inflation. Will Hard Data Follow?	None
+Dec 09, 2020 12:26 GMT	Investing.com	Weak Dollar Supports Foreign Bond Returns For U.S. Investors	None
+Dec 08, 2020 10:06 GMT	Investing.com	European Government Bond Yields Stay Low As Lockdowns, Brexit Fuel Uncertainty	None
+Dec 06, 2020 06:20 GMT	Investing.com	10-Year Treasury Note Speculators Drop Bullish Bets For 2nd Week	None
+Dec 06, 2020 05:49 GMT	Investing.com	Rates May Surge Higher Killing The Equity Market Rally	None
+Dec 01, 2020 07:24 GMT	Investing.com	Government Bond Yields Slip After Vaccine Spike As Inflation Concerns Fade	None
+Nov 24, 2020 10:00 GMT	Investing.com	China’s First Negative-Yield Bond Finds Strong Demand For 4 Billion Euro Issue	None
+Nov 22, 2020 05:53 GMT	Investing.com	10-Year Treasury Note Speculators Boosted Their Bullish Bets	None
+Dec 11, 2020 07:12 GMT	Investing.com	Treasury Market Expects Higher Inflation. Will Hard Data Follow?	None
+Dec 09, 2020 12:26 GMT	Investing.com	Weak Dollar Supports Foreign Bond Returns For U.S. Investors	None
+Dec 06, 2020 06:20 GMT	Investing.com	10-Year Treasury Note Speculators Drop Bullish Bets For 2nd Week	None
+Nov 09, 2020 21:34 GMT	Investing.com	Yield Breakout Attempted	None
+Oct 30, 2020 11:29 GMT	Investing.com	Is The Slide In Treasury Yields Over?	None
+Oct 26, 2020 11:18 GMT	Investing.com	Emerging Markets And Junk Bonds Ex-U.S. Led Last Week's Gains	None
+Oct 22, 2020 18:59 GMT	Investing.com	Bonds Take A Hit As Long Treasury Yields Rise To Four-Month High	None
+Oct 20, 2020 11:39 GMT	Investing.com	Desperately Seeking Yield	None
+Oct 07, 2020 13:48 GMT	Investing.com	Are Government Bonds Peaking, Starting To Rollover?	None
+Oct 06, 2020 11:58 GMT	Investing.com	Latest Rise In 10-Year Yield Stirs Reflation Forecasts… Again	None
+Dec 22, 2020 09:16 GMT	Investing.com	EU Bonds Changing View On Government Debt But Treasuries To Still Rule In 2021	None
+Dec 15, 2020 08:33 GMT	Investing.com	European Bond Yields Rise As Brexit Talks Lead To Cautious Deal Optimism	None
+Dec 08, 2020 10:06 GMT	Investing.com	European Government Bond Yields Stay Low As Lockdowns, Brexit Fuel Uncertainty	None
+Dec 06, 2020 05:49 GMT	Investing.com	Rates May Surge Higher Killing The Equity Market Rally	None
+Dec 01, 2020 07:24 GMT	Investing.com	Government Bond Yields Slip After Vaccine Spike As Inflation Concerns Fade	None
+Nov 24, 2020 10:00 GMT	Investing.com	China’s First Negative-Yield Bond Finds Strong Demand For 4 Billion Euro Issue	None
+Nov 22, 2020 05:53 GMT	Investing.com	10-Year Treasury Note Speculators Boosted Their Bullish Bets	None
+Nov 17, 2020 09:45 GMT	Investing.com	European Sovereign Green Bonds Gain Despite (Or Maybe Because Of ) COVID-19	None
+Nov 11, 2020 09:32 GMT	Investing.com	Vaccine News Sends Treasury Yields Soaring—But For How Long?	None
+Nov 10, 2020 20:59 GMT	Investing.com	A New Burst Of Reflation Pricing In The Treasury Market	None
+Aug 19, 2020 10:42 GMT	Investing.com	The Deviation Between Bond Spreads And Reality	None
+Jun 22, 2020 06:59 GMT	Investing.com	Corporate Credit Spreads Continue To Improve	None
+Jun 10, 2020 09:29 GMT	Investing.com	The Bond Vigilantes Returning? What It Means For CEFs	None
+Apr 14, 2020 07:15 GMT	Investing.com	Inflationary And Insolvency Implosion Of The Bond Market	None
+Mar 03, 2020 05:58 GMT	Investing.com	February 2020 Yield Curve Update	None
+Feb 27, 2020 20:04 GMT	Investing.com	U.S. 10-Year T-Bill At 60-Year Low As Equity Markets Correct	None
+Feb 26, 2020 05:39 GMT	Investing.com	10-Year Yields Pushed To New All Time Lows	None
+Feb 25, 2020 08:57 GMT	Investing.com	10 Year US Notes Trading Higher - Elliott Wave Analysis	None
+Feb 19, 2020 13:30 GMT	Investing.com	Digging For Value In A Pile Of Manure	None
+Feb 14, 2020 16:28 GMT	Investing.com	10-Year Rates May Climb To As High As 2% As Risk-Taking Returns	None
+Jun 22, 2020 06:59 GMT	Investing.com	Corporate Credit Spreads Continue To Improve	None
+Mar 11, 2020 18:22 GMT	Investing.com	TIPS: Big Bet On 10-Year Breakevens At 0.94%	None
+Mar 03, 2020 05:58 GMT	Investing.com	February 2020 Yield Curve Update	None
+Feb 27, 2020 20:04 GMT	Investing.com	U.S. 10-Year T-Bill At 60-Year Low As Equity Markets Correct	None
+Feb 26, 2020 05:39 GMT	Investing.com	10-Year Yields Pushed To New All Time Lows	None
+Feb 25, 2020 08:57 GMT	Investing.com	10 Year US Notes Trading Higher - Elliott Wave Analysis	None
+Feb 19, 2020 13:30 GMT	Investing.com	Digging For Value In A Pile Of Manure	None
+Feb 14, 2020 16:28 GMT	Investing.com	10-Year Rates May Climb To As High As 2% As Risk-Taking Returns	None
+Feb 13, 2020 12:24 GMT	Investing.com	Treasury Market Flashes New Warning As Real Yields Go Negative	None
+Feb 06, 2020 11:22 GMT	Investing.com	January 2020 Yield Curve Update	None
+Dec 22, 2020 09:16 GMT	Investing.com	EU Bonds Changing View On Government Debt But Treasuries To Still Rule In 2021	None
+Dec 15, 2020 08:33 GMT	Investing.com	European Bond Yields Rise As Brexit Talks Lead To Cautious Deal Optimism	None
+Dec 08, 2020 10:06 GMT	Investing.com	European Government Bond Yields Stay Low As Lockdowns, Brexit Fuel Uncertainty	None
+Dec 06, 2020 06:20 GMT	Investing.com	10-Year Treasury Note Speculators Drop Bullish Bets For 2nd Week	None
+Dec 06, 2020 05:49 GMT	Investing.com	Rates May Surge Higher Killing The Equity Market Rally	None
+Dec 01, 2020 07:24 GMT	Investing.com	Government Bond Yields Slip After Vaccine Spike As Inflation Concerns Fade	None
+Nov 24, 2020 10:00 GMT	Investing.com	China’s First Negative-Yield Bond Finds Strong Demand For 4 Billion Euro Issue	None
+Nov 22, 2020 05:53 GMT	Investing.com	10-Year Treasury Note Speculators Boosted Their Bullish Bets	None
+Nov 17, 2020 09:45 GMT	Investing.com	European Sovereign Green Bonds Gain Despite (Or Maybe Because Of ) COVID-19	None
+Nov 11, 2020 09:32 GMT	Investing.com	Vaccine News Sends Treasury Yields Soaring—But For How Long?	None
+Aug 19, 2020 10:42 GMT	Investing.com	The Deviation Between Bond Spreads And Reality	None
+Jul 22, 2020 13:02 GMT	Investing.com	Most U.S. Bond Sectors Continue To Post Solid Gains In 2020	None
+Jul 21, 2020 07:08 GMT	Investing.com	Junk Bonds: A Test Of Resistance	None
+Jun 22, 2020 06:59 GMT	Investing.com	Corporate Credit Spreads Continue To Improve	None
+Jun 04, 2020 04:14 GMT	Investing.com	The Corporate Bond Market Is Far More Fragile Than Many Realize. Here’s Why	None
+May 25, 2020 04:59 GMT	Investing.com	Still A Lot of Value in Corporate Bond Market	None
+Mar 18, 2020 12:40 GMT	Investing.com	Investment Grade Bonds Breaking 12-Year Support	None
+Mar 03, 2020 05:58 GMT	Investing.com	February 2020 Yield Curve Update	None
+Feb 27, 2020 20:04 GMT	Investing.com	U.S. 10-Year T-Bill At 60-Year Low As Equity Markets Correct	None
+Feb 26, 2020 05:39 GMT	Investing.com	10-Year Yields Pushed To New All Time Lows	None
+2021-01-04 18:55:33	Investing.com	Spanish doctors disappointed by slow rollout of COVID-19 vaccinations	None
+2021-01-04 18:50:53	Investing.com	Google employees form labor union in United States	None
+2021-01-04 18:50:25	Investing.com	U.S. FCC action to limit key social media protection increasingly unlikely	None
+2021-01-04 18:45:56	Investing.com	UK judge rejects extradition of 'suicide risk' Assange to United States	None
+2021-01-04 18:45:17	Investing.com	Breakthrough reached in Gulf dispute with Qatar: senior Trump administration official	None
+2021-01-04 18:42:39	Investing.com	Dow Kicks Off 2021 With Selloff as Political Uncertainty, Virus Worries Weigh	None
+2021-01-04 18:41:00	Investing.com	England heading for tougher COVID-19 restriction as cases surge	None
+2021-01-04 18:40:54	Investing.com	New York, Florida tell hospitals to dispense COVID-19 vaccines quicker or lose supply	None
+2021-01-04 18:40:16	Investing.com	Ether fees are at it again	None
+2021-01-04 18:31:21	Investing.com	Hedge fund manager Scaramucci launches cryptocurrency fund	None
+2021-01-04 18:40:16	Investing.com	Ether fees are at it again	None
+2021-01-04 18:00:16	Investing.com	Iconloop secures gov backing to test blockchain driver's license project	None
+2021-01-04 17:40:14	Investing.com	FT reveals Bitcoin headline on 12th anniversary of genesis block	None
+2021-01-04 17:30:28	Investing.com	Three Arrows Capital buys over $1 billion Bitcoin	None
+2021-01-04 17:20:15	Investing.com	Bitwise AUM surpasses $500 million as institutions flock to crypto	None
+2021-01-04 17:00:15	Investing.com	Uphold will not delist XRP before court decision	None
+2021-01-04 16:20:15	Investing.com	Bitcoin price dip to $27K costs Binance long traders $190M in liquidations	None
+2021-01-04 16:00:26	Investing.com	Build your own crypto news feed with Coinbench	None
+2021-01-04 16:00:24	Investing.com	Crypto derivatives gained steam in 2020, but 2021 may see true growth	None
+2021-01-04 15:20:20	Investing.com	Why THETA price is up 180% in two weeks, outperforming even Bitcoin	None
+2021-01-04 18:55:33	Investing.com	Spanish doctors disappointed by slow rollout of COVID-19 vaccinations	None
+2021-01-04 18:41:00	Investing.com	England heading for tougher COVID-19 restriction as cases surge	None
+2021-01-04 18:40:54	Investing.com	New York, Florida tell hospitals to dispense COVID-19 vaccines quicker or lose supply	None
+2021-01-04 17:05:33	Investing.com	UK scientists worry vaccines may not protect against S.African coronavirus variant	None
+2021-01-04 15:20:26	Investing.com	Germany heading towards extension of hard lockdown	None
+2021-01-04 14:55:15	Investing.com	Germany, Denmark mull delaying second COVID-19 vaccine shot	None
+2021-01-04 14:10:07	Investing.com	Vietnam proposes suspending all flights from countries with UK COVID-19 variant	None
+2021-01-04 12:30:24	Investing.com	Lagging its neighbours, France tries to speed up COVID-19 vaccinations	None
+2021-01-04 12:15:34	Investing.com	UK PM Johnson to impose tougher COVID-19 curbs shortly	None
+2021-01-04 11:50:41	Investing.com	EU in discussions with Pfizer-BioNTech for additional vaccine doses	None
+2021-01-04 09:00:28	Investing.com	COVID-19 proof risk sentiment drags dollar near 2018 lows	None
+2021-01-04 07:51:56	Investing.com	Dollar Unloved as New Year Offers Recovery Optimism	None
+2021-01-04 02:20:06	Investing.com	Dollar Down Over Continued Hopes for Low U.S. Interest Rates, COVID-19 Recovery	None
+2020-12-31 20:43:08	Investing.com	Euro Set to End Year Higher, but Some Call for Caution in 2021	None
+2020-12-31 06:16:04	Investing.com	Dollar on borrowed time as U.S. twin deficits balloon	None
+2020-12-31 02:00:11	Investing.com	Dollar Down, With ‘Twin Deficits’ Likely to Extend Dollar Weakness Into 2021	None
+2020-12-30 20:14:27	Investing.com	Pound Shrugs off Further Covid Restrictions as UK Backs Brexit Deal	None
+2020-12-30 12:41:13	Investing.com	Currency markets stay 'risk-on' as dollar hits lowest since 2018	None
+2020-12-30 09:15:58	Investing.com	Dollar Weakens Further as Commodity Currencies, Sterling Gain	None
+2020-12-30 03:47:03	Investing.com	Dollar Down, Hopes for Further U.S. Stimulus Up Even As Stimulus Checks Delayed	None
+2021-01-04 17:35:26	Investing.com	S&P 500, Dow tumble from record highs on nerves over Georgia runoff elections	None
+2021-01-04 13:02:03	Investing.com	Tesla and AstraZeneca Rise Premarket; Herbalife Falls	None
+2021-01-04 14:45:41	Investing.com	Wall Street Opens Mixed as Virus, Georgia Runoffs Weigh on Mood; Dow Down 40 Pts	None
+2021-01-04 11:36:06	Investing.com	Trump's Call, Oxford Vaccine, Dollar Weakness - What's up in Markets	None
+2021-01-04 15:41:14	Investing.com	Oil touches multi-month highs as OPEC+ expected to hold output steady	None
+2021-01-04 11:46:09	Investing.com	World stocks ring in new year with record highs	None
+2021-01-04 18:45:56	Investing.com	UK judge rejects extradition of 'suicide risk' Assange to United States	None
+2021-01-04 18:41:00	Investing.com	England heading for tougher COVID-19 restriction as cases surge	None
+2021-01-04 18:42:39	Investing.com	Dow Kicks Off 2021 With Selloff as Political Uncertainty, Virus Worries Weigh	None
+2021-01-04 14:00:25	Investing.com	Jack Ma's disappearing act fuels speculation about billionaire's whereabouts	None
+Feb 10, 2020 00:00 GMT	Investing.com	Olymp Trade Now Has MetaTrader 4	None
+Jan 17, 2020 00:00 GMT	Investing.com	FC BARCELONA AND FBS SIGN NEW GLOBAL PARTNERSHIP AGREEMENT	None
+Jun 21, 2019 00:00 GMT	Investing.com	Where to buy and sell Slack shares? The new instrument is now available in Libertex	None
+Jun 06, 2019 00:00 GMT	Investing.com	Dukascopy Bank has opened 100 000 current accounts!	None
+May 29, 2019 00:00 GMT	Investing.com	Tickmill Group’s 2018 Financial Performance Reaches New Heights	None
+May 23, 2019 00:00 GMT	Investing.com	OctaFX recognized as Best Forex Broker Asia and Best ECN/STP Broker	None
+May 22, 2019 00:00 GMT	Investing.com	HotForex Receives Prestigious New Award	None
+May 22, 2019 00:00 GMT	Investing.com	HF Markets is named Fastest Growing Forex Broker MENA	None
+May 20, 2019 00:00 GMT	Investing.com	Pinterest: the perfect picture for Libertex traders	None
+Apr 29, 2019 00:00 GMT	Investing.com	RoboMarkets Becomes the Official Partner of BMW M Motorsport	None
+Mar 13, 2019 13:31 GMT	Investing.com	Demo account that brings you money	None
+Mar 13, 2019 13:29 GMT	Investing.com	Sms-signals that generate profit	None
+Jan 24, 2019 13:09 GMT	Investing.com	Gold4You. Trade and Get the Gold!	None
+Dec 12, 2018 09:15 GMT	Investing.com	100% Deposit Bonus	None
+Dec 12, 2018 09:01 GMT	Investing.com	Trading Hero Contest - Win up to $400!	None
+Feb 10, 2020 00:00 GMT	Investing.com	Olymp Trade Now Has MetaTrader 4	None
+Jan 17, 2020 00:00 GMT	Investing.com	FC BARCELONA AND FBS SIGN NEW GLOBAL PARTNERSHIP AGREEMENT	None
+Jun 21, 2019 00:00 GMT	Investing.com	Where to buy and sell Slack shares? The new instrument is now available in Libertex	None
+Jun 06, 2019 00:00 GMT	Investing.com	Dukascopy Bank has opened 100 000 current accounts!	None
+May 29, 2019 00:00 GMT	Investing.com	Tickmill Group’s 2018 Financial Performance Reaches New Heights	None
+May 23, 2019 00:00 GMT	Investing.com	OctaFX recognized as Best Forex Broker Asia and Best ECN/STP Broker	None
+May 22, 2019 00:00 GMT	Investing.com	HF Markets is named Fastest Growing Forex Broker MENA	None
+May 22, 2019 00:00 GMT	Investing.com	HotForex Receives Prestigious New Award	None
+May 20, 2019 00:00 GMT	Investing.com	Pinterest: the perfect picture for Libertex traders	None
+Apr 29, 2019 00:00 GMT	Investing.com	RoboMarkets Becomes the Official Partner of BMW M Motorsport	None
+Sep 04, 2018 12:27 GMT	Investing.com	Interview with Chief Trading Educator for Stratton Markets James Trescothick	None
+Jun 12, 2018 14:04 GMT	Investing.com	ActivTrades CEO Alex Pusco on ESMA and Diversification Strategies	None
+May 22, 2018 13:58 GMT	Investing.com	Why too many monolinguals will hurt British businesses post – Brexit	None
+Jun 15, 2017 08:47 GMT	Investing.com	CEO, Alex Pusco Discusses the Market and Growth	None
+May 22, 2017 15:58 GMT	Investing.com	Interview with Andrey Dashin- Alpari	None
+Nov 09, 2015 13:27 GMT	Investing.com	A Look Into ActiveTrades	None
+Mar 26, 2015 15:40 GMT	Investing.com	Interview with Stanislav Vaneev	None
+Jun 03, 2013 14:50 GMT	Investing.com	Banc De Binary CEO Oren Laurent Opens Up on Binary Options	None
+Jun 27, 2012 12:58 GMT	Investing.com	Investing.com Broker Interview Questions:	None
+Mar 07, 2012 08:38 GMT	Investing.com	Interview to Tadawul FX	None
+Oct 24, 2016 13:22 GMT	Investing.com	Opening Remarks On Government Securities Settlement	None
+Aug 04, 2016 09:00 GMT	Investing.com	Japan's Economy and Monetary Policy	None
+Jul 28, 2016 09:00 GMT	Investing.com	Assessing The Implications Of Negative Interest Rates	None
+Jul 18, 2016 09:00 GMT	Investing.com	Brexit And Monetary Policy	None
+Jul 15, 2016 09:00 GMT	Investing.com	Whose Recovery?	None
+Jul 13, 2016 09:00 GMT	Investing.com	Monetary Policy Report Press Conference Opening Statement	None
+Jul 13, 2016 09:00 GMT	Investing.com	How The Bank Formulates And Assesses Its Monetary Policy Decisions	None
+Jul 12, 2016 09:00 GMT	Investing.com	Opening Remarks	None
+Jul 12, 2016 09:00 GMT	Investing.com	Financial Stability And The Banking Sector	None
+Jul 07, 2016 09:00 GMT	Investing.com	Challenges For The European Banking Industry	None
